@@ -1,3 +1,8 @@
-Aerobitz
+Aerobitz_Sites
+
+Remake
+Air Management '96
+A remake of this game was made for the Sony PlayStation, Sega Saturn, and Windows PC called Air Management '96[b]. 
+Graphics have been enhanced in this version, but it is only available in Japanese.
 
 https://en.wikipedia.org/wiki/Koei#Executive_Series
